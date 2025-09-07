@@ -1,4 +1,4 @@
-## About me
+## About
 Hey im Yannik
 Im currently doing my "informationstechnischer assistent" education
 

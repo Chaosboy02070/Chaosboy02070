@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, welcome!
+Im a noob at programming but I want to learn a bit
+
+Idk what else I should write here...
+
 
 <!--
 **Chaosboy02070/Chaosboy02070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

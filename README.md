@@ -1,7 +1,8 @@
-## Hey, welcome!
-Im a noob at programming but I want to learn a bit
+## About me
+Hey im Yannik
+Im currently doing my "informationstechnischer assistent" education
 
-Idk what else I should write here...
+This account exist so I can learn in my free time?
 
 
 <!--

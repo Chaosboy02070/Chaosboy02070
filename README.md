@@ -4,7 +4,7 @@ Im currently doing my "informationstechnischer assistent" education
 
 This account exist so I can learn in my free time?
 
-https://[Mein Discord-Profil](discord.com/users/564142948757929985)
+[Mein Discord-Profil](https://discord.com/users/564142948757929985)
 
 <!--
 **Chaosboy02070/Chaosboy02070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
